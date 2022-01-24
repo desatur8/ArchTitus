@@ -10,3 +10,4 @@ nordic-theme
 ocs-url
 sddm-nordic-theme-git
 ttf-meslo
+cfetch
